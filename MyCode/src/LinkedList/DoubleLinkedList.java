@@ -1,5 +1,5 @@
 package LinkedList;
-
+/*My Double linked list*/
 public class DoubleLinkedList {
 
 	Node headnode = null;
